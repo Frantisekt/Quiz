@@ -11,11 +11,11 @@
 
 This program will be a short simple quiz maker. It will allow you to:
 
-*Input some questions.
-*Input base values and score of the quiz.
-*Input the options and correct answer.
-*Display the resulting score.
-*It will also have a timer with a time limit.
+-Input some questions.
+-Input base values and score of the quiz.
+-Input the options and correct answer.
+-Display the resulting score.
+-It will also have a timer with a time limit.
 
 ## Getting Started <a name = "getting_started"></a>
 
